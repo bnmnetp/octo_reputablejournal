@@ -18,4 +18,7 @@ And so it was that we found ourselves in the building called Day One South, meet
 
 * **Risk** -- High tech companies are full of risk takers.  Sam was no exception as a young graduate who simply moved to Seattle in search of a job.  Years later he is still at Amazon.  Many more years later than he expected.
 
+![](/images/JTerm14/Amazon.jpg)
+
+
 After our meeting with Amazon we found a coffee shop where we could take over a large table and had some group discussion.  I told my own story of Net Perceptions, which I should probably write down here soon, and tried to relate my own experience with the themes I want the students to look for over the next three weeks.
