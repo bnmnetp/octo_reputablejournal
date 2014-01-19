@@ -16,7 +16,7 @@ A few people have asked for the links to the students blogs.  Here they are:
 * [Collin:](http://collinrichman.blogspot.com/)
 * [IsabelLe:](http://thehtmelle.wordpress.com/)
 * [Dylan:](http://www.dylanessing.tk/blog/category/jterm/)
-* Shelby:
+* [Shelby:](http://popproduct.wordpress.com/)
 * Chris:
 * Dan:
 * [And Brad too](http://reputablejournal.com)

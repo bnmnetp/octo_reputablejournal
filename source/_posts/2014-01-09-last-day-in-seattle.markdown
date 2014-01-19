@@ -10,7 +10,7 @@ categories:
 
 What?  There is no real way to know the answer to this question, but it is one that was posed to the group today.  How do you handle uncertainty?  How do well do you think on your feet?  This is a typical interview question used by many high tech companies.  At Luther we might ask prospective faculty, "how many cornstalks in the state of Iowa?"
 
-This question definitely stumped a few people in the room, but others got the idea quickly.  This question isn't about getting the right answer.  There is a right answer, but nobody could tell you exactly what it is.  There is definitely a wrong answer:  "I don't know," or "Its not possible." are two examples of the wrong answer to this question.
+This question definitely stumped a few people in the room, but others got the idea quickly. <!-- more --> This question isn't about getting the right answer.  There is a right answer, but nobody could tell you exactly what it is.  There is definitely a wrong answer:  "I don't know," or "Its not possible." are two examples of the wrong answer to this question.
 
 So what do you do?  You have to make some assumptions.  What fraction of the state of Washington is forested, what is the density of trees in the forested area.  If you use some reasonable numbers for those two items you can make a reasonable, and defensible estimate.  That is something that startups have to do every day.  Use the information they have available, and make their best guess.  Check the assumptions, and be ready to refine the answer.  This is not just true of startups, it is true for all businesses, projects, and life.
 
