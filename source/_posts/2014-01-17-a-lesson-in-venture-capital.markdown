@@ -3,7 +3,7 @@ layout: post
 title: "A Lesson in Venture Capital"
 date: 2014-01-17 11:13:15 -0800
 comments: true
-categories: 
+categories: [JTerm14, travel]
 ---
 
 "Ann is on a roll, we are going to be late."  I texted to Phillip.  Indeed she was.  Ann Winblad was the first investor in my Company, Net Perceptions, back in 1996.  She was an investor, a  mentor, and a supporter of us for years.  Today she was giving my students a lesson in the new economics and ecosystems of software development.  *I* was taking notes as fast as I could to keep up with the stream of new companies and technologies that were *must know* things according to Ann.

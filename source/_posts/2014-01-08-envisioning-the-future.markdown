@@ -3,7 +3,7 @@ layout: post
 title: "Envisioning the Future"
 date: 2014-01-08 12:38:25 -0800
 comments: true
-categories: jterm14, travel
+categories: [JTerm14, travel]
 ---
 
 Today was a big day.  The Microsoft mother ship.

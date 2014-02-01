@@ -3,7 +3,7 @@ layout: post
 title: "Student Blogs"
 date: 2014-01-13 16:35:04 -0800
 comments: true
-categories: 
+categories: JTerm14
 ---
 
 A few people have asked for the links to the students blogs.  Here they are:

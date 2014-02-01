@@ -4,7 +4,7 @@ title: "A Golden Bike Ride"
 date: 2014-01-12 15:08:31 -0800
 comments: true
 published: true
-categories: 
+categories: [JTerm14, travel]
 ---
 
 What a great day for a bike ride!  We rented some bikes at Blazing Saddles, right next to the hotel.  Then took off for the golden gate bridge.  It was a beautiful day and no surprise, the bike paths were very crowded with all kinds of people enjoying the outdoors and the scenery.

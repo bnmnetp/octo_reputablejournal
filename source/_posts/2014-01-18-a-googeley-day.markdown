@@ -4,7 +4,7 @@ title: "The Social Implications of a Self-Driving Car"
 date: 2014-01-18 10:40:14 -0800
 comments: true
 published: true
-categories: 
+categories: [JTerm14, travel]
 ---
 
 Today we moved south, from Fisherman's wharf down to Menlo Park.  But most of the day was spent at Google.  This was certainly a day that everyone has been looking forward to for most of the trip.  

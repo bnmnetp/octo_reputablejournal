@@ -4,8 +4,8 @@ title: "How Many Trees in the State of Washington?"
 date: 2014-01-09 10:59:31 -0800
 comments: true
 categories:
-  - JTerm
-  - Travel
+  - JTerm14
+  - travel
 ---
 
 What?  There is no real way to know the answer to this question, but it is one that was posed to the group today.  How do you handle uncertainty?  How do well do you think on your feet?  This is a typical interview question used by many high tech companies.  At Luther we might ask prospective faculty, "how many cornstalks in the state of Iowa?"

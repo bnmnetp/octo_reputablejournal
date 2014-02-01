@@ -4,7 +4,7 @@ title: "Changing the World, JTerm 2014"
 date: 2014-01-14 09:07:18 -0800
 comments: true
 published: true
-categories: 
+categories: [JTerm14, travel]
 ---
 
 The following is a republication of a post I wrote for Luther College's ["Ideas and Creations" Blog](https://www.luther.edu/ideas-creations-blog/).
